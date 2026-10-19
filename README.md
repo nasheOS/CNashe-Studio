@@ -1,4 +1,4 @@
-# CNashe Studio — prototipo 0.2
+# CNashe Studio — OPEN SOURCE
 
 Este es un punto de partida funcional en C++17 + SDL2 para Windows con MinGW/GCC.
 Incluye:
