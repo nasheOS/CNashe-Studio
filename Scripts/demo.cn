@@ -1,0 +1,9 @@
+# Demo de CNashe: las líneas se ejecutan de arriba hacia abajo.
+crear jugador 90 100 54 54
+color jugador azul
+crear obstaculo 260 170 100 36
+color obstaculo amarillo
+mover jugador 40 0
+si_colision jugador obstaculo
+# Si hay colisión, el runtime escribe el resultado en la consola.
+fin
